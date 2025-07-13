@@ -1,4 +1,5 @@
 ﻿# FPGA Training / Breakout Board — XC3S400-4PQ208C
+ Designed by Milad Pourtaghi
 
 An educational FPGA breakout board based on the **Xilinx Spartan-3 XC3S400-4PQ208C (208-pin PQFP)**.  
 This board was designed with **maximum flexibility and clarity for learning, prototyping, and testing FPGA projects**.  
@@ -59,7 +60,11 @@ The placement of the FPGA (XC3S400) on the PCB was intentionally chosen with att
 This subtle design choice aims to reflect a balance between technical functionality and visual clarity, aligning with the belief that engineering and design aesthetics can complement each other.
 
 ---
-
+## 👨‍💻 Author
+Milad Pourtaghi
+Electronics & Embedded Engineer  
+🔗 [LinkedIn]([https://linkedin.com/in/miladpourtaghi])
+---
 ## 📂 Repository Structure
 
 hardware
