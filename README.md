@@ -69,7 +69,7 @@ This subtle design choice aims to reflect a balance between technical functional
 ## 👨‍💻 Author
 Milad Pourtaghi
 Electronics & Embedded Engineer  
-🔗 [LinkedIn]([https://linkedin.com/in/miladpourtaghi])
+🔗 [LinkedIn](https://linkedin.com/in/miladpourtaghi)
 ---
 ## 📂 Repository Structure
 
