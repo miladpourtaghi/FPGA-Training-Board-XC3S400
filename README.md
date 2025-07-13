@@ -21,10 +21,10 @@ The layout is designed with a focus on clarity, accessibility, and a clean logic
 ## 📸 Preview
 
 ### 3D PCB Render
-![PCB 3D Render](image/PCB%203D.jpg)
+![PCB 3D Render](images/PCB%203d.jpg)
 
 ### Top View
-![PCB Top View](image/PCB.jpg)
+![PCB Top View](images/PCB.jpg)
 
 ---
 
