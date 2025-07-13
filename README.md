@@ -18,7 +18,6 @@ This board is intended as a **training platform** for students, engineers, or ho
 
 The layout is designed with a focus on clarity, accessibility, and a clean logical structure suitable for learning environments.
 
-> ⚠️ **Note:** This project is fully designed in **Altium Designer** but has not been fabricated yet.
 
 ---
 
