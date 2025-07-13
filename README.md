@@ -18,7 +18,13 @@ This board is intended as a **training platform** for students, engineers, or ho
 - Practical debugging using onboard LEDs
 
 The layout is designed with a focus on clarity, accessibility, and a clean logical structure suitable for learning environments.
+## 📸 Preview
 
+### 3D PCB Render
+![PCB 3D Render](image/PCB%203D.jpg)
+
+### Top View
+![PCB Top View](image/PCB.jpg)
 
 ---
 
